@@ -32,7 +32,7 @@ Hi there! I'm an experienced software Quality Assurance Engineer with a demonstr
 
 (xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) | ![GitHub Actions](https://img.icons8.com/?size=50&id=63777&format=png&color=000000)) | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
 
-(xiii). **API Testing**| ![Postman](https://img.icons8.com/?size=50&id=Ei4ZhVQvIMHE&format=png&color=000000/postman.png) | ![RestAssured](https://img.icons8.com/?size=50&id=Ei4ZhVQvIMHE&format=png&color=000000/restassured.png) | ![Cypress](https://img.icons8.com/?size=50&id=Ei4ZhVQvIMHE&format=png&color=000000/cypress.png)
+(xiii). **API Testing**| ![Postman](https://img.icons8.com/color/48/000000/postman.png) | ![RestAssured](https://img.icons8.com/color/48/000000/restassured.png) | ![Cypress](https://img.icons8.com/color/48/000000/cypress.png)
 
 (xiv). **Performance Testing**| ![Jmeter](https://img.icons8.com/color/48/000000/jmeter.png) |
 
